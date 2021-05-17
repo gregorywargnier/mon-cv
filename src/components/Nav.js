@@ -23,7 +23,7 @@ const Nav = () => {
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/competences" activeClassName="navActive">
+                        <NavLink exact to="/Skills" activeClassName="navActive">
                             <FontAwesomeIcon icon={faMountain} />
                             <span>compétences</span>
                         </NavLink>
