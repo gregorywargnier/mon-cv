@@ -3,8 +3,17 @@ import Nav from "../components/Nav";
 
 const Home = () => {
     return (
-        <div>
+        <div className="home">
             <Nav/>
+            <div className="homeContent">
+                <div className="content">
+                    <h1> Gregory Wargnier</h1>
+                    <h2>Développeur front-end</h2>
+                    <div className="pdf">
+
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };
