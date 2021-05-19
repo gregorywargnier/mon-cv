@@ -39,17 +39,17 @@ const Nav = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="https://fr.linkedin.com"target="_blank" rel="noopener noreferrer">
+                        <a href="https://fr.linkedin.com" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faLinkedin} />
                         </a>
                     </li>
                     <li>
-                        <a href="https://fr.linkedin.com"target="_blank" rel="noopener noreferrer">
+                        <a href="https://fr.linkedin.com" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faGithub} />
                         </a>
                     </li>
                     <li>
-                        <a href="https://fr.linkedin.com"target="_blank" rel="noopener noreferrer">
+                        <a href="https://fr.linkedin.com" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faTwitter} />
                         </a>
                     </li>
