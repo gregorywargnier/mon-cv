@@ -1,6 +1,6 @@
 //navigation
 .sidebar {
-  background: $color-1;
+  background: $color-6;
   font-family: $font-1;
   height: 100%;
   min-height: $minHeight;
@@ -104,21 +104,19 @@
         }
       }
     }
-    .copy {
-      margin-top: 2rem;
-      text-align: center;
-      letter-spacing: 0.1rem;
-      font-size: .7rem;
-
-      a, a:visited {
+    a, a:visited {
         color: $color-5;
 
         &:hover {
           color: $color-4;
         }
-      }
     }
   }
+}
+.copy {
+  text-align: center;
+  letter-spacing: 0.1rem;
+  font-size: .7rem;
 }
 @media screen and (max-width: 850px){
   .sidebar {

@@ -56,7 +56,7 @@ const Nav = () => {
                 </ul>
             </div>
             <div className="copy">
-                <p>from greg wargnier - 2020</p>
+                <span>from greg wargnier - 2020</span>
             </div>
         </div>
     );
